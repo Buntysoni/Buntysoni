@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Buntysoni
 - 👀 I’m interested in .NET/APIs/AI
-- 🌱 I’m currently learning .NET/AI
+- 🌱 I’m currently learning .NET/AI/Java
 - 📫 How to reach me contact@unlein.com
 
 <!---
